@@ -1,0 +1,20 @@
+# Geodata — track code, not data
+*.shp
+*.dbf
+*.shx
+*.prj
+*.tif
+*.gpkg
+*.gdb/
+*.nc
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# R
+.Rhistory
+.RData
+*.Rproj.user/
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+This repository contains outputs from GISPR Module 2. The final code produced for this module imports data from the City of Seattle, runs a sanity check, defines two functions to clean column headers and define a district size classification. It then applies these functions and exports both an image of the map and the data. The workbook and outputs are included in this repo.
